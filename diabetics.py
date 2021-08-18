@@ -6,6 +6,7 @@ Original file is located at
 """
 
 import pandas as pd
+import numpy as np
 
 df=pd.read_csv("/content/diabetes.csv")
 
